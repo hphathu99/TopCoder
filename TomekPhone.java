@@ -151,3 +151,6 @@ public class TomekPhone {
 		System.out.println(temp.minKeystrokes(frequencies, keySizes));
 	}
 }
+
+// Time complexity: O(n)
+// Space complexity: O(n)
