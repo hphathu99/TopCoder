@@ -217,3 +217,6 @@ public class ScheduleStrength {
 		System.out.println(temp.calculate(teams, results));
 	}
 }
+
+// Time complexity: O(n^2)
+// Space complexity: O(n)
